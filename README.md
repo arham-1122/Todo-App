@@ -1,1 +1,1 @@
-Todo App 
+AI Integrated Todo App 
